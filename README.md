@@ -1,0 +1,39 @@
+# Learning Skills
+
+우아한테크코스 프론트엔드 크루의 학습 스킬 프롬프트 모음.
+
+## 사용법
+
+1. 본인 닉네임의 마크다운 파일을 연다
+2. 학습 스킬 프롬프트를 작성한다
+3. PR을 올려 기여한다
+
+## 크루
+
+| 닉네임 | 파일 |
+|--------|------|
+| 코브 | [코브.md](skills/코브.md) |
+| 도넛 | [도넛.md](skills/도넛.md) |
+| 지오 | [지오.md](skills/지오.md) |
+| 이스타 | [이스타.md](skills/이스타.md) |
+| 벤지 | [벤지.md](skills/벤지.md) |
+| 비비빙 | [비비빙.md](skills/비비빙.md) |
+| 안톨리니 | [안톨리니.md](skills/안톨리니.md) |
+| 포도 | [포도.md](skills/포도.md) |
+| 아지 | [아지.md](skills/아지.md) |
+| 두부 | [두부.md](skills/두부.md) |
+| 디움 | [디움.md](skills/디움.md) |
+| 콘티 | [콘티.md](skills/콘티.md) |
+| 피트 | [피트.md](skills/피트.md) |
+| 이현 | [이현.md](skills/이현.md) |
+| 해니 | [해니.md](skills/해니.md) |
+| 유월 | [유월.md](skills/유월.md) |
+| 먼지 | [먼지.md](skills/먼지.md) |
+| 루멘 | [루멘.md](skills/루멘.md) |
+| 라바 | [라바.md](skills/라바.md) |
+| 찰리 | [찰리.md](skills/찰리.md) |
+| 클라우디 | [클라우디.md](skills/클라우디.md) |
+| 레스 | [레스.md](skills/레스.md) |
+| 윤돌 | [윤돌.md](skills/윤돌.md) |
+| 애니 | [애니.md](skills/애니.md) |
+| 파라디 | [파라디.md](skills/파라디.md) |
