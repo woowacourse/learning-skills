@@ -37,3 +37,5 @@
 | 윤돌 | [윤돌.md](skills/윤돌.md) |
 | 애니 | [애니.md](skills/애니.md) |
 | 파라디 | [파라디.md](skills/파라디.md) |
+| 준 | [준.md](skills/준.md) |
+| 시지프 | [시지프.md](skills/시지프.md) |
