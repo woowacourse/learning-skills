@@ -4,11 +4,12 @@
 
 ## 시작하기
 
-1. [SKILL_GENERATOR.md](SKILL_GENERATOR.md)의 프롬프트를 AI에게 붙여넣는다
-2. 대화를 통해 나만의 학습 스킬을 만든다
+1. [학습 스킬 생성기 Gem](https://gemini.google.com/gem/1dj1rsQGF-6_n1RNLKKpCZarm29lBL0PP)에 접속한다
+2. 대화를 통해 단계별로 나만의 학습 스킬을 만든다
 3. 본인 닉네임의 마크다운 파일에 결과를 옮긴다
 4. PR을 올려 기여한다
 
+> Gem 없이도 [SKILL_GENERATOR.md](SKILL_GENERATOR.md)의 프롬프트를 아무 AI에 붙여넣어 동일하게 진행할 수 있습니다.
 > 템플릿 구조가 궁금하면 [SKILL_TEMPLATE.md](SKILL_TEMPLATE.md)를 참고하세요.
 
 ## 크루
